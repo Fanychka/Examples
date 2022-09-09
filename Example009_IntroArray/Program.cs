@@ -8,7 +8,7 @@ return result;
 
 int[] array = {11,123,3,14,15,61,17,81,91};
 
-array[0] = 12;
+array[0] = 128787;
 
 Console.WriteLine(array[7]);
 
